@@ -1,1 +1,7 @@
+while wait() do
 
+if sa == 31 then
+    {
+        print("31")
+    }
+end
